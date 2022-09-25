@@ -1,12 +1,6 @@
 //    CALCULATING TAX AND TIP OF A MEAL 
-// 
-//    A program that computes the tax and tip on a restaurant bill 
-//    for a patron with a $44.50 meal charge. The tax is 8.25% of
-//    the meal cost and the tip is 15% of the total after tax. 
-//    The meal cost, tax amount, tip amount, and total bill are 
-//    displayed as output. 
 
-public class Program1
+public class TaxAndTipOfMeal
 {
 
 	public static void main(String[] args)
